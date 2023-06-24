@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "date": "6/6/2023",
+      "task": "create  a project",
+      "status": false,
+      "id": 1
+    },
+    {
+      "date": "6/23/2023",
+      "task": "remove bugs",
+      "status": false,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

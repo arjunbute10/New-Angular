@@ -1,0 +1,27 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.mat-dialog-content {
+  width: 500px;
+}
+
+.example-full-width,
+.in {
+  width: 300px;
+}
+
+.custom-icon {
+  margin-left: 10px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+h2[mat-dialog-title] {
+  font-family:monospace, cursive;
+  color: rgb(46, 42, 165);
+  padding-left: 100px;}
